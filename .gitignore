@@ -1,0 +1,18 @@
+
+/figures/*
+/data/*
+/data/*.csv
+/figures/*.png
+.DS_Store
+*.docx
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
